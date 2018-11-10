@@ -1,7 +1,11 @@
 www.amazon.com
+hafee.in
+atharsmy.com
+faberplatinumstudio.com
+inceptionalinteriors.in
+svibeagro.com
 http://stackoverflow.com
 https://mail.google.com
-https://zwayam.com//#/
 http://www.example.com
 https://www.fooooohogle.com
 https://www.google.com/url?q=http%3A%2F%2F10.32.2.151%3A8080%2Flogin%3Ffrom%3D%252F&sa=D&sntz=1&usg=AFQjCNFfZLZrJM8eXCD-sqyVSx2mHmb-oA
