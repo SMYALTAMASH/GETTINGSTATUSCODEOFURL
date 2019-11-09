@@ -11,5 +11,6 @@ in "url.py" change the name of the variable "fileName" with the location of file
 execute:
 python3 url.py
 
+
 # CircleCi Badge
 [![CircleCI](https://circleci.com/gh/SMYALTAMASH/GETTINGSTATUSCODEOFURL/tree/master.svg?style=svg)](https://circleci.com/gh/SMYALTAMASH/GETTINGSTATUSCODEOFURL/tree/master)
