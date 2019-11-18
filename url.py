@@ -7,7 +7,7 @@ fileName="url.txt"
 urllist=[]
 validUrl=[]
 invalidUrl=[]
-Error
+
 if not os.path.isfile(fileName):
 	print("file doesn't exist")
 	exit(0)
