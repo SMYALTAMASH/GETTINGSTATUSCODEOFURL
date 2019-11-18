@@ -26,6 +26,7 @@ with open(fileName) as f:
 			#append http at the beginning if it doesn't exist to save yourself from error
 			urllist.append("http://"+line)
 
+
 for req in urllist:
 	try:
 		response = urlopen(req)
