@@ -11,7 +11,6 @@ invalidUrl=[]
 if not os.path.isfile(fileName):
 	print("file doesn't exist")
 	exit(0)
-
 def printlist(listname):
 	for name in listname:
 		print(name)
@@ -26,6 +25,7 @@ with open(fileName) as f:
 		else:
 			#append http at the beginning if it doesn't exist to save yourself from error
 			urllist.append("http://"+line)
+
 
 for req in urllist:
 	try:
