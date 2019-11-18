@@ -7,11 +7,10 @@ fileName="url.txt"
 urllist=[]
 validUrl=[]
 invalidUrl=[]
-
+Error
 if not os.path.isfile(fileName):
 	print("file doesn't exist")
 	exit(0)
-
 def printlist(listname):
 	for name in listname:
 		print(name)
